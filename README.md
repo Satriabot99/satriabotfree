@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href='https://raw.githubusercontent.com/koleksibot/.github/main/profile/whitehatbot.png'><img src='https://raw.githubusercontent.com/koleksibot/.github/main/profile/whitehatbot.png' type='image'></a>
+<a href='https://raw.githubusercontent.com/koleksibot/.github/main/profile/whitehatbot.png'><img src='https://telegra.ph/file/634c2f4b9ac6223e2ba4a.jpg' type='image'></a>
 
-# **WHITEHAT BOT MULTI DEVICE WHATSAPP**
+# **SATRIA BOT MULTI DEVICE WHATSAPP**
   
   
 # ```Bot Info```
@@ -17,7 +17,7 @@
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/62895369318181"><img src="https://img.shields.io/badge/Chat-Creator-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/6285708233494"><img src="https://img.shields.io/badge/Chat-Creator-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/J4ii7zkiySP9s6xdlZDggp"><img src="https://img.shields.io/badge/Official Group- Join-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/Subscribe-[YT]-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/GAMINGDUDES_GD" /><br>
 </p>
