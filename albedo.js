@@ -592,7 +592,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
             }
             break
             case 'sc': case 'script': {
-                reply('Script : https://github.com/Koleksibot/Whitehatbot-md\n Dont Forget To Give Star\n\nYoutube : https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ\n Dont Forget To Subscribe')
+                reply('Script : https://github.com/Satriabot99/satriabotfree\n Dont Forget To Give Star\n\nYoutube : https://youtube.com\n Dont Forget To Subscribe')
             }
             break
             case 'chat': {
@@ -1208,12 +1208,12 @@ case 'antilink':
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot/Whitehatbot-md'
+                                    url: 'https://github.com/Satriabot99/satriabotfree'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Owner Number👤',
-                                    phoneNumber: '+92 308-7880-256'
+                                    phoneNumber: '6285708233494'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2392,12 +2392,12 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/satriabot99t'
                                 }
                             }, {
                             	urlButton: {
                                 displayText: 'Script🔖',
-                                    url: 'https://github.com/Koleksibot/Whitehatbot-md'
+                                    url: 'https://github.com/Satriabot99/satriabotfree'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2516,12 +2516,12 @@ Please Select Button Below
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/satriabot99'
                                 }
                             }, {
                             	urlButton: {
                                 displayText: 'Script🔖',
-                                    url: 'https://github.com/Koleksibot/Whitehatbot-md'
+                                    url: 'https://github.com/Satriabot99/satriabotfree'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2551,7 +2551,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                     title: `Konichiwa  ${pushname}`,
                     description: `Please Choose The Menu\n\n`,
                     buttonText: "Menu",
-                    footerText: "_Koleksibot_",
+                    footerText: "_Satriabot_",
                     listType: "SINGLE_SELECT",
                     sections: [{
 								"title": "Group Features",
@@ -2682,11 +2682,11 @@ case 'grupmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Koleksibot`,
+                            hydratedFooterText: `Satriabot`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2728,7 +2728,7 @@ case 'downloadmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2765,7 +2765,7 @@ case 'downloadmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2796,7 +2796,7 @@ case 'randommenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/Satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2828,7 +2828,7 @@ case 'funmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/Satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2868,7 +2868,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/Satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2902,7 +2902,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/Satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2960,7 +2960,7 @@ case 'horoscopemenukcodk': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/Satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2998,7 +2998,7 @@ case 'convertmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/Satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3034,11 +3034,11 @@ case 'nocategorymenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Koleksibot`,
+                            hydratedFooterText: `Satriabot`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3075,7 +3075,7 @@ case 'databasemenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/Satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3107,7 +3107,7 @@ case 'anonymouschatmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3139,7 +3139,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3176,7 +3176,7 @@ break
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'profile📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/Satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3317,7 +3317,7 @@ break
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'profile📍',
-                                    url: 'https://github.com/Koleksibot'
+                                    url: 'https://github.com/satriabot99'
                                 }
                             }, {
                                 quickReplyButton: {
