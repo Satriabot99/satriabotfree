@@ -3313,7 +3313,7 @@ break
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Koleksibot`,
+                            hydratedFooterText: `Satriabot`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'profile📍',
