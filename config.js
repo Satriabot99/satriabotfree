@@ -2,7 +2,7 @@
 
 //
 //
-//                      Satriabot99
+//                      warden craft
 //
 //                     𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙-𝙼𝙳 𝙱𝚘𝚝
 //
@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['6285708233494'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['6285708233494'] //another owner number
-global.premium = ['6285708233494'] //premium number
+global.owner = ['6285243240297'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['625243240297'] //another owner number
+global.premium = ['625243240297'] //premium number
 global.pengguna = 'Satria Pamungkas' //username
 global.botnma = 'Satria-Team' //bot name
 global.ownernma = '👻Satriabot' //owner name
 global.packname = 'Satriabot' //sticker package name
-global.author = 'By Satriabot' //sticker author name
+global.author = 'By warden craft' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
